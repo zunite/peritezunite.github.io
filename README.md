@@ -1,4 +1,4 @@
-# peritezunite.github.io
+# Data Analyst
 ## education
 High school graduate
 ## programming languages
